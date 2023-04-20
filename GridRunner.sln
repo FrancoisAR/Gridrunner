@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridRunner", "GridRunner\GridRunner.csproj", "{522CF566-DBBF-4B5F-8BA9-985D20EAE875}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{2709826E-1393-41DB-BC74-4A35C394D9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522CF566-DBBF-4B5F-8BA9-985D20EAE875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522CF566-DBBF-4B5F-8BA9-985D20EAE875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522CF566-DBBF-4B5F-8BA9-985D20EAE875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522CF566-DBBF-4B5F-8BA9-985D20EAE875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2709826E-1393-41DB-BC74-4A35C394D9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2709826E-1393-41DB-BC74-4A35C394D9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2709826E-1393-41DB-BC74-4A35C394D9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2709826E-1393-41DB-BC74-4A35C394D9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCD9B1B-C9A1-4DB7-801D-D6AE153385A6}
+	EndGlobalSection
+EndGlobal
